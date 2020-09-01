@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background:url('./1.jpg');
+}
+ul,li,aside.section{
+  background: none!important;
+  color:lightgrey;
+}
+.ant-progress-text{
+  color:lightgrey;
+}
+.ant-card-body{
+  padding:0px!important;
+}
